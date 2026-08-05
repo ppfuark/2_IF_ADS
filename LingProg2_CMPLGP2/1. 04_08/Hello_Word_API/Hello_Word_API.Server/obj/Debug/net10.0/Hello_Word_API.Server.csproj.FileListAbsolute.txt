@@ -108,3 +108,4 @@ C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_
 C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.pdb
 C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.genruntimeconfig.cache
 C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\ref\Hello_Word_API.Server.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.sourcelink.json
