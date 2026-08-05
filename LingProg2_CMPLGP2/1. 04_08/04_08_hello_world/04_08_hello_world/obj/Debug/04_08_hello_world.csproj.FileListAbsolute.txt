@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\bin\Debug\04_08_hello_world.exe.config
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\bin\Debug\04_08_hello_world.exe
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\bin\Debug\04_08_hello_world.pdb
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\obj\Debug\04_08_hello_world.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\obj\Debug\04_08_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\obj\Debug\04_08_hello_world.exe
+C:\Users\Aluno\source\repos\04_08_hello_world\04_08_hello_world\obj\Debug\04_08_hello_world.pdb

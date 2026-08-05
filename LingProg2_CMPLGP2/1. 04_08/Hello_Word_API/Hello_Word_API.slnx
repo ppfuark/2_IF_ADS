@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Hello_Word_API.AppHost/Hello_Word_API.AppHost.csproj" />
+  <Project Path="Hello_Word_API.Server/Hello_Word_API.Server.csproj" />
+</Solution>

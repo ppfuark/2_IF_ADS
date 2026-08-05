@@ -1,0 +1,110 @@
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\appsettings.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.staticwebassets.endpoints.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.exe
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.deps.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.runtimeconfig.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.pdb
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Api.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.Core.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.Extensions.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.RateLimiting.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\scopedcss\bundle\Hello_Word_API.Server.styles.css
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Wo.1546F12C.Up2Date
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\refint\Hello_Word_API.Server.dll
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.pdb
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\ref\Hello_Word_API.Server.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\appsettings.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.staticwebassets.endpoints.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.exe
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.deps.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.runtimeconfig.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Hello_Word_API.Server.pdb
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Api.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.Core.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.Extensions.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\bin\Debug\net10.0\Polly.RateLimiting.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\scopedcss\bundle\Hello_Word_API.Server.styles.css
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Wo.1546F12C.Up2Date
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\refint\Hello_Word_API.Server.dll
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.pdb
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\Hello_Word_API.Server.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Paulo P - 1 TADS\LingProg2_CMPLGP2\1. 04_08\Hello_Word_API\Hello_Word_API.Server\obj\Debug\net10.0\ref\Hello_Word_API.Server.dll
